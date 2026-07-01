@@ -1,1 +1,2 @@
-# Streamlit-Real_Estate_buyer_segmentation-
+An end-to-end unsupervised artificial intelligence framework designed to uncover latent behavioral, financial, and geographic patterns within the global customer ecosystem of the Parcl platform. By joining, cleaning, and engineering multi-dimensional feature matrices, this project implements a dual-clustering pipeline to segment property buyers into actionable target profiles.
+
